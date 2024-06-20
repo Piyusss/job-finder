@@ -14,8 +14,8 @@ import { createProfileAction } from "@/actions";
 import { createClient } from "@supabase/supabase-js";
 
 const supabaseClient = createClient(
-  "https://ymsijpnegskkoiuerthi.supabase.co",
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inltc2lqcG5lZ3Nra29pdWVydGhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQyMzYzNDYsImV4cCI6MjAyOTgxMjM0Nn0.PM7Nr9qTZFEJsf62eHgkFXKGPqt0gfMdFN6SOJjCP6M"
+  "https://bvzaywtrqxowrqyiyjvt.supabase.co",
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ2emF5d3RycXhvd3JxeWl5anZ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTg4NzMwNzgsImV4cCI6MjAzNDQ0OTA3OH0.47Nla3uhQwcgEBv4_Pf5oLBU8_M2eMXM3wpgva1aJ7w"
 );
 
 function OnBoard() {
